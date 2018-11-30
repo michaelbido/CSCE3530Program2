@@ -4,17 +4,6 @@
 Name       : Michael Bido-Chavez
 Class      : CSCE 3530
 
-
-## Files
-
-Client.java
-PServer.java
-pkg + (a directory)
-    |-- PServerThread.java
-    |-- ForwardCacheResponse.java
-compile.sh
-README.txt
-
 ## Description
 
 The proxy server will wait for a client connection, and then accept a URL 
